@@ -1,0 +1,8 @@
+
+# git no es una bd por favor (link de la bd: https://www.kaggle.com/datasets/olafkrastovski/handwritten-digits-0-9?resource=download)
+archive/
+../
+
+# Ignorar imágenes, resultados o exportaciones
+outputs/
+export/
