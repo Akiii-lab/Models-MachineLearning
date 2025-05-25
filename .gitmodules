@@ -1,0 +1,3 @@
+[submodule "Notebook"]
+	path = Notebook
+	url = https://github.com/Akiii-lab/Notebook-MachineLearnig.git
