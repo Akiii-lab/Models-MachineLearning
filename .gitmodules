@@ -1,3 +1,4 @@
-[submodule "Notebook-MachineLearnig"]
-	path = Notebook-MachineLearnig
-	url = https://github.com/Akiii-lab/Notebook-MachineLearnig.git
+[submodule "Notebook-MachineLearning"]
+	path = Notebook-MachineLearning
+	url = https://github.com/Akiii-lab/Notebook-MachineLearning.git
+	branch = main
